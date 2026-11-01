@@ -1,5 +1,7 @@
 # DOQ-AI-Agent
 
+![stack: Python](https://img.shields.io/badge/stack-Python-3776AB) ![stack: Dockerfile](https://img.shields.io/badge/stack-Dockerfile-555) ![license: MIT](https://img.shields.io/badge/license-MIT-2ea44f)
+
 Chat with your PDFs! An AI-powered Streamlit app for smart document Q&A, employing a specialized information retrieval method (similar to RAG) with LangChain and Hugging Face.
 
 ## Overview
